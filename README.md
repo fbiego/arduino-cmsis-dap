@@ -14,4 +14,4 @@ or <a href="https://www.pjrc.com/store/teensy32.html">Teensy 3.2</a> into a
 CMSIS-DAP USB adapter, which you can use with OpenOCD and mbed to program and debug ARM chips using the SWD protocol,
 and also with OpenOCD to program and debug various chips using JTAG.
 
-See arduino-cmsis-dap.ino for installation details.
+See [`arduino-cmsis-dap.ino`](https://github.com/fbiego/arduino-cmsis-dap/blob/master/arduino-cmsis-dap.ino) for installation details.
